@@ -1,6 +1,7 @@
-<h1 style="text-align:center">Sara Rabon</h1>
 <h1 style="text-align:center">Welcome to my professional website!</h1>
 <img src="img/self.jpg"align="middle" >
+
+<img src="img/CASA.png">
 ___
 
 ## Work Experience
@@ -36,40 +37,9 @@ Lakeville, MN
 _July 2014 - August 2016_  
 I spent most of my time interacting with customers, so I became the first and last face they saw when coming into the store. I always greeted with a smile and helped get customers to the right place or right people, and then I would check them out and make sure they had everything they required. On busier days, I would double as a sales associate and inform each patron on how their specific needs could be satisfied.  
 
-
-
 ___
-
-## Education
-
-__University of Wisconsin - Madison__  
-Bachelor of Science in Computer Science, Communication Arts (Communication Science and Rhetorical Studies)  
-_September 2016 - May 2020_
-
-__Extracurriculars:__  
-<img style="float: right;width:400px;height:400px;" src="img/theteamregionals.jpg">
-I currently am a member and former team captain of the UW-Madison Ethics Bowl Debate Team, sponsored by the [Holtz Center](https://sts.wisc.edu/2018/09/04/holtz-center-sponsors-uw-madison-ethics-bowl-team/). We placed [3rd in 2017](https://sts.wisc.edu/2017/12/05/uw-madison-ethics-bowl-team-headed-to-nationals-in-march/) and 1st in 2018 at the Upper Midwest Regionals, and particpated in Nationals in 2018 and 2019.
-
- 
-Ethics Bowl is a form of debate run by The Association for Practical and Professional Ethics (APPE) where students from all over the country come together to defend practical ethical stances on issues ranging from automation to genetics. The program encourages impromptu speaking as well as critical thinking and team work. Each year, the top 32 teams from over 15 regionals around the country particpate in Nationals to be the best team in the country.  
-[The Team's WIN Page](https://win.wisc.edu/organization/e-bowl)  
-[The Team's Facebook Page](https://www.facebook.com/groups/1867389600177091/)
-
-
-
-
-I particpated in the Communication Arts Student Association (CASA) from January 2017 to May 2018. During that time, I spent a year as the Academic Chair of the student organization. I managed the relationship between the organzation and the department and shaped the image of the major projected to students inside and outside the department.  
-[CASA WIN Page](https://win.wisc.edu/organization/casa)  
-[CASA Facebook Page](https://www.facebook.com/CASAUW/)  
-
-___
-
-## Projects
-
-Coming soon! 
-___
-
 ## Links
+[LinkedIn](www.linkedin.com/in/sara-rabon)  
 [Github](https://github.com/skrabon)  
 [Kaggle](https://www.kaggle.com/srabon)
 
