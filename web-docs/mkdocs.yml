@@ -1,7 +1,8 @@
 site_name: Sara Rabon
+theme: readthedocs
+extra_css: [extra.css]
 nav:
     - Home: index.md
-    - About Me: me.md
     - Education: edu.md
     - Projects: projects.md
-theme: readthedocs
+

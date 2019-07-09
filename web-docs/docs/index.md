@@ -1,7 +1,9 @@
-<h1 style="text-align:center">Welcome to my professional website!</h1>
-<img src="img/self.jpg"align="middle" >
+<h1 style="text-align:center">Sara Rabon</h1>
+<img src="img/self.jpg"align="middle">
 
-<img src="img/CASA.png">
+<p style = "text-align:center"> I am a young woman working hard to get my Bachelor of Science in computer science and communications at UW-Madison. This summer, I have been interning at 3M in Minnesota and have been working specifically with data migration. My interest spread from back-end development and data science to public speaking and rhetorical studies. I believe strongly in being well rounded, so I constantly work to learn and grow inside my studies and outside in other opportunities.</p>
+
+
 ___
 
 ## Work Experience
