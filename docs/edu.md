@@ -34,3 +34,11 @@ I particpated in the Communication Arts Student Association (CASA) from January 
 
 [CASA WIN Page](https://win.wisc.edu/organization/casa)  
 [CASA Facebook Page](https://www.facebook.com/CASAUW/)
+
+
+### Tartan Toastmasters 
+
+I have recently become a member of the Tartan Toastmasters at 3M, and I plan to switch to a club in Madison when I return from my internship. As a member, I am expected to particate in Pathways, Toastmaster's online education courses, as well as present prepared and impromptu speeches at the club meetings. My overall goal is to not only keep up my public speaking abilities but also learn to accept and apply constructive feedback from the other members in the club. 
+[Tartan Toastmasters' Web Page] (https://162.toastmastersclubs.org/)
+
+
