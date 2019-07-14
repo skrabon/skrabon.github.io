@@ -12,6 +12,8 @@ __IT Intern on the MDM: Data Migration Team__
 __3M__  
 St.Paul, MN   
 _May 2019 - Present_  
+Currently, I an IT intern at 3M for the summer. My main project is focused on helping with the migration of data from older legacy systems to the new ERP being used in the company. I am working on developing training to help legacy users understand the process. Along side that, I have been particpating in many intern events, holding informational interviews, and absorbing as much as I can out of the experience. 
+
 
 __Undergraduate Research Assistant__  
 __Center for Healthy Minds__  
